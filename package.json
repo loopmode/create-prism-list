@@ -5,8 +5,13 @@
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loopmode/create-prism-list"
+  },
   "dependencies": {
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6"
-  }
+  },
+  "keywords": ["prismjs", "util", "helper", "list", "languages", "plugins", "themes"]
 }
