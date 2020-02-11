@@ -1,0 +1,12 @@
+{
+  "name": "create-prism-list",
+  "description": "Creates a list of installed prismjs resources",
+  "author": "Jovica Aleksic <jovica.aleksic@loopmode.de>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6"
+  }
+}
